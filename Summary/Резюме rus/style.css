@@ -1,0 +1,18 @@
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.fullname{
+    text-align: center;
+}
+.myphoto{
+    width: 13%;
+    height: 13%;
+    float: right;
+    margin-right: 50px;
+}
+.contactinfo{
+    width: 100%;
+    max-width: 1000px;
+}
